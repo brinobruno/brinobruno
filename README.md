@@ -8,7 +8,9 @@
 - ⚡ Fun fact: Sou vegetariano há quase 2 anos
 
 ### Meus Repositórios
-[<img align="left" alt="Repositórios" width="35px" src="https://img.icons8.com/ios/50/000000/administrative-tools.png"/>][repositorios]
+[<img align="left" alt="Repositórios" width="35px" src="https://img.icons8.com/material-outlined/50/000000/administrative-tools.png"/>][repositorios]
+
+<br />
 
 ### Vamos nos conectar:
 
