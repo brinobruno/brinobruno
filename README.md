@@ -7,16 +7,14 @@
 - 🥅 Meu objetivo esse ano é colaborar muito com projetos Open Source
 - ⚡ Fun fact: Sou vegetariano há quase 2 anos
 
-<br />
-
 ### Meus Repositórios
-[<img align="left" alt="Repositórios" width="40px" src="https://img.icons8.com/ios/50/000000/hammer.png"/>][repositorios]
+[<img align="left" alt="Repositórios" width="35px" src="https://img.icons8.com/dusk/64/000000/globe--v1.png"/>][repositorios]
 
 ### Vamos nos conectar:
 
-[<img align="left" alt="Portfolio (protótipo)" width="22px" src="https://img.icons8.com/ios-filled/50/000000/globe.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Behance" width="22px" src="https://img.icons8.com/color/48/000000/behance.png" />][behance]
+[<img align="left" alt="Portfolio (protótipo)" width="35px" src="https://img.icons8.com/ios-filled/50/000000/globe.png" />][website]
+[<img align="left" alt="LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Behance" width="35px" src="https://img.icons8.com/color/48/000000/behance.png" />][behance]
 
 <br />
 
