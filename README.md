@@ -7,7 +7,7 @@
 - 🥅 Meu objetivo esse ano é colaborar muito com projetos Open Source
 - ⚡ Fun fact: Sou vegetariano há quase 2 anos
 
-### Meus Repositórios
+### Meus Repositórios:
 [<img align="left" alt="Repositórios" width="35px" src="https://img.icons8.com/material-outlined/50/000000/administrative-tools.png"/>][repositorios]
 
 <br />
