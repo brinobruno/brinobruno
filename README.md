@@ -1,4 +1,4 @@
-# <title>Olá! Me chamo Bruno</title> 👋
+# <title>Olá! Me chamo Bruno</title>
 
 ## Estudante, Estágiario e Desenvolvedor front-end!
 
@@ -9,28 +9,31 @@
 
 <br />
 
-### Meus Repositórios[repositorios]
-
+### Meus Repositórios
+[<img align="left" alt="Repositórios" width="40px" src="https://img.icons8.com/ios/50/000000/hammer.png"/>][repositorios]
 
 ### Vamos nos conectar:
 
-[<img align="left" alt="Portfolio (protótipo)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="Portfolio (protótipo)" width="22px" src="https://img.icons8.com/ios-filled/50/000000/globe.png" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Behance" width="22px" src="https://img.icons8.com/color/48/000000/behance.png" />][behance]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="C++" width="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/material-outlined/24/000000/github.png" />
+<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Figma" width="35px" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
+<img align="left" alt="Adobe XD" width="35px" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" />
+<img align="left" alt="Adobe Photoshop" width="35px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" />
+<img align="left" alt="Adobe Illustrator" width="35px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" />
 
 <br />
 <br />
