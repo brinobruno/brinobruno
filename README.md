@@ -29,7 +29,7 @@
 <img align="left" alt="C++" width="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/material-outlined/24/000000/github.png" />
-<img align="left" alt="Terminal" width="35px" src="https://img.icons8.com/office/16/000000/console.png" />
+<img align="left" alt="Terminal" width="35px" src="https://img.icons8.com/color/48/000000/console.png" />
 <img align="left" alt="Figma" width="35px" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
 <img align="left" alt="Adobe XD" width="35px" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" />
 <img align="left" alt="Adobe Photoshop" width="35px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" />
