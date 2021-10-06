@@ -2,9 +2,9 @@
 
 ## Estudante, Estágiario e Desenvolvedor front-end!
 
-- 🔭 Atualmente estou desenvolvendo meu portfolio dev
-- 🌱 Estou fazendo um Bootcamp front-end na Digital Innovation One
-- 🥅 Meu objetivo esse ano é colaborar muito com projetos Open Source
+- 🔭 Atualmente estou desenvolvendo um projeto CRM para clinica veterinária completo
+- 🌱 Estou fazendo um Bootcamp ReactJS
+- 🥅 Meu objetivo esse ano é colaborar com projetos Open Source
 - ⚡ Fun fact: Sou vegetariano há quase 2 anos
 
 ### Meus Repositórios:
