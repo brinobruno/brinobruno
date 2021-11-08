@@ -24,14 +24,14 @@
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="NodeJS" width="35px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+<img align="left" alt="SASS" width="35px" src="https://img.icons8.com/color/48/000000/sass.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="C++" width="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/material-outlined/24/000000/github.png" />
-<img align="left" alt="Terminal" width="35px" src="https://img.icons8.com/color/48/000000/console.png" />
 <img align="left" alt="Figma" width="35px" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
-<img align="left" alt="Adobe XD" width="35px" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" />
 <img align="left" alt="Adobe Photoshop" width="35px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" />
 <img align="left" alt="Adobe Illustrator" width="35px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" />
 
