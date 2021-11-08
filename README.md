@@ -3,7 +3,7 @@
 ## Estudante, Estágiario e Desenvolvedor front-end!
 
 - 🔭 Atualmente estou desenvolvendo um projeto CRM para clinica veterinária completo
-- 🌱 Estou fazendo um Bootcamp ReactJS
+- 🌱 Estou fazendo O Ignite de ReactJS com NodeJS
 - 🥅 Meu objetivo esse ano é colaborar com projetos Open Source
 - ⚡ Fun fact: Sou vegetariano há quase 2 anos
 
