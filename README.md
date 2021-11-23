@@ -1,6 +1,6 @@
 ### 👋 Oi! meu nome é Bruno Corrêa, sou desenvolvedor web JavaScript e fascinado por tecnologia!
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/81701584/143141485-754fa361-85f4-41f3-801a-845fb9bf0afc.png" />
+<img align="right" width="250" src="https://user-images.githubusercontent.com/81701584/143141485-754fa361-85f4-41f3-801a-845fb9bf0afc.png" />
 
 ```javascript
 
