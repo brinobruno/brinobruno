@@ -10,9 +10,9 @@ const Dev = {
   mainHobbies: ['Gaming', 'Watching TV shows', 'Cooking'],
   developmentInterests: ['User interfaces', 'APIs REST'],
   
-  developmentStack: ['Javascript', 'Typescript', 'NodeJS', 'Express', 'ReactJS'],
-  developmentTools: ['VSCode', 'Git', 'Docker', 'Postman', 'Beekeeper', 'Figma'],
-  markdownAndStyle: ['HTML', 'CSS', 'Bootstrap', 'SASS', 'Styled Components']
+  developmentStack: ['Javascript', 'Typescript', 'NodeJS', 'ReactJS'],
+  developmentTools: ['VSCode', 'Git', 'Docker', 'Postman', 'Beekeeper'],
+  markdownAndStyle: ['HTML', 'Bootstrap', 'SASS', 'Styled Components']
  }
 
 ```
