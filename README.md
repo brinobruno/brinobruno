@@ -38,7 +38,7 @@ const Dev = {
 <code><img height="34" src="https://avatars.githubusercontent.com/u/53234021?s=200&v=4"></code>
 <code><img height="34" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"></code>
   
-[website]: https://meuport.com/
+[website]: https://brunocorrea.vercel.app
 [linkedin]: https://www.linkedin.com/in/brunociao/
 [email]: mailto:brunosantos6ft@gmail.com
 
