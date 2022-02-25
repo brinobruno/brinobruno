@@ -5,15 +5,15 @@
 ```javascript
 
 const Dev = {
- name: 'Bruno Corrêa',
- age: 20,
- seniority: 'Junior',
- mainHobbies: ['Gaming', 'Watching TV shows', 'Cooking'],
- developmentInterests: ['User interfaces', 'APIs REST'],
+  name: 'Bruno Corrêa',
+  age: 20,
+  seniority: 'Junior',
+  mainHobbies: ['Gaming', 'Watching TV shows', 'Cooking'],
+  developmentInterests: ['User interfaces', 'APIs REST'],
   
- stack: ['Javascript', 'Typescript', 'NodeJS', 'ReactJS'],
- tools: ['VSCode', 'Git', 'Docker', 'Postman', 'Beekeeper'],
- mdStyle: ['HTML', 'Bootstrap', 'SASS', 'Styled-Components']
+  stack: ['Javascript', 'Typescript', 'NodeJS', 'ReactJS'],
+  tools: ['VSCode', 'Git', 'Docker', 'Postman', 'Beekeeper'],
+  mdStyle: ['HTML', 'Bootstrap', 'SASS', 'Styled-Components']
  }
 
 ```
