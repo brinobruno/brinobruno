@@ -9,11 +9,11 @@ const Dev = {
   age: 21,
   seniority: 'Junior',
   mainHobbies: ['Gaming', 'Watching TV shows', 'Cooking'],
-  developmentInterests: ['User interfaces', 'APIs REST', 'Testing'],
+  developmentInterests: ['User interfaces', 'APIs REST'],
   
   stack: ['Typescript', 'ReactJS', 'NodeJS'],
-  tools: ['VSCode', 'Git', 'Docker', 'Postman', 'Beekeeper'],
-  mdStyle: ['HTML', 'TailwindCSS', 'SASS', 'Styled-Components']
+  tools: ['VSCode', 'Git', 'Docker', 'Insomnia'],
+  mdStyle: ['HTML', 'TailwindCSS', 'Styled-Components']
  }
 
 ```
