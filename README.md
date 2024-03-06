@@ -7,7 +7,7 @@
 const Dev = {
   name: 'Bruno Corrêa',
   age: 22,
-  seniority: 'Junior',
+  seniority: 'Mid-level',
   mainHobbies: ['Gaming', 'Watching TV shows', 'Cooking'],
   developmentInterests: ['User interfaces', 'APIs REST'],
   
