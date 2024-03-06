@@ -11,7 +11,7 @@ const Dev = {
   mainHobbies: ['Gaming', 'Watching TV shows', 'Cooking'],
   developmentInterests: ['User interfaces', 'APIs REST'],
   
-  stack: ['Typescript', 'ReactJS', 'NodeJS'],
+  stack: ['Typescript', 'ReactJS', 'React Native', 'NodeJS'],
   tools: ['VSCode', 'Git', 'Docker', 'Insomnia'],
   mdStyle: ['HTML', 'TailwindCSS', 'Styled-Components']
  }
